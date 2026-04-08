@@ -5,7 +5,6 @@ function Dashboard({ onLogout, dark, setDark }) {
   return (
     <div className="min-h-screen bg-gray-100 dark:bg-gray-900 p-6">
       
-      {/* SINGLE HEADER */}
       <div className="flex justify-between items-center mb-6">
         <h1 className="text-3xl font-bold dark:text-white">
           Product Management
